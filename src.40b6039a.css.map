@@ -1,0 +1,1 @@
+{"version":3,"sources":["styles.css"],"names":[],"mappings":"AAAA,KACE,sBAAuB,CACvB,QACF,CACA,OACE,YACF","file":"src.40b6039a.css","sourceRoot":"..","sourcesContent":["body {\n  font-family: sans-serif;\n  margin: 0;\n}\n.asset {\n  display: none;\n}\n"]}
